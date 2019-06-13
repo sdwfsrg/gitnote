@@ -73,6 +73,8 @@ li + li {font-weight:bold;}
 ```
 这个选择器只会把列表中的第二个和第三个列表项变为粗体。第一个列表项不受影响
 
+## 伪类
+在 CSS 定义中，a:hover 必须位于 a:link 和 a:visited 之后，这样才能生效！
 
 
 
