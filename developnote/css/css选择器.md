@@ -83,23 +83,3 @@ a:active 必须位于 a:hover 之后，这样才能生效！
 :first-child   向元素的第一个子元素添加样式
 :lang   向带有指定lang属性的元素添加样式
 
-
-```
-flow
-st=>start: 开始
-op=>operation: My Operation
-cond=>condition: Yes or No?
-e=>end
-st->op->cond
-cond(yes)->e
-cond(no)->op
-&
-```
-
-mermaid
-graph TD
-   A --> B
-
-subgraph title
-    graph definition
-end
