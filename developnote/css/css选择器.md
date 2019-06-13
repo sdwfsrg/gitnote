@@ -75,6 +75,7 @@ li + li {font-weight:bold;}
 
 ## 伪类
 在 CSS 定义中，a:hover 必须位于 a:link 和 a:visited 之后，这样才能生效！
+a:active 必须位于 a:hover 之后，这样才能生效！
 
 
 
