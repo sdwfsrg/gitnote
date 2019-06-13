@@ -77,8 +77,8 @@ li + li {font-weight:bold;}
 在 CSS 定义中，a:hover 必须位于 a:link 和 a:visited 之后，这样才能生效！
 a:active 必须位于 a:hover 之后，这样才能生效！
 
-:active   向被激活的元素添加样式
-:focus    向拥有键盘输入焦点的元素添加样式
+:active  --- 向被激活的元素添加样式
+:focus  ---  向拥有键盘输入焦点的元素添加样式
 :hover    当鼠标悬浮在元素上方的时候向元素添加样式
 :link    向未被访问的链接添加样式
 :visited    向已被访问的链接添加样式
