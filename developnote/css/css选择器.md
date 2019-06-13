@@ -79,10 +79,10 @@ a:active 必须位于 a:hover 之后，这样才能生效！
 
 :active   向被激活的元素添加样式
 :focus  向拥有键盘输入焦点的元素添加样式
-:hover  当鼠标悬浮在
-:link
-:visited
-:first-child
+:hover  当鼠标悬浮在元素上方的时候向元素添加样式
+:link  向未被访问的链接添加样式
+:visited  向已被访问的链接添加样式
+:first-child 向元素的第一个子元素添加样式
 :lang
 
 
