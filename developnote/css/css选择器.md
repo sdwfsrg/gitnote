@@ -86,7 +86,8 @@ a:active 必须位于 a:hover 之后，这样才能生效！
 :lang   向带有指定lang属性的元素添加样式
 
 
-```flow
+```
+flow
 st=>start: 开始
 op=>operation: My Operation
 cond=>condition: Yes or No?
@@ -95,8 +96,4 @@ st->op->cond
 cond(yes)->e
 cond(no)->op
 &
-
-
-
-
-
+```
