@@ -38,7 +38,7 @@
 
 ![](http://www.w3school.com.cn/i/ct_css_positioning_floating_left_example.gif)
 
-
+![](http://www.w3school.com.cn/i/ct_css_positioning_floating_left_example_2.gif)
 css中**float** 属性实现元素浮动 （left，right ，none，inherit）
 clear：both；在左右两侧均不允许浮动元素。
 
