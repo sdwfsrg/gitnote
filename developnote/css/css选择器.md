@@ -82,7 +82,8 @@ a:active 必须位于 a:hover 之后，这样才能生效！
 :hover
 :link
 :visited
-
+:first-child
+:lang
 
 
 
