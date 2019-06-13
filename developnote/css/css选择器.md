@@ -87,5 +87,16 @@ a:active 必须位于 a:hover 之后，这样才能生效！
 
 
 
+st=>start: 开始
+op=>operation: My Operation
+cond=>condition: Yes or No?
+e=>end
+st->op->cond
+cond(yes)->e
+cond(no)->op
+&```
+
+
+
 
 
