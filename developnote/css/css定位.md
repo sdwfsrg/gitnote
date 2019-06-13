@@ -15,7 +15,15 @@
 
 ![相对定位](http://www.w3school.com.cn/i/ct_css_positioning_relative_example.gif)
 
-###
+### 绝对定位
+	
+```
+#box_relative {
+  position: absolute;
+  left: 30px;
+  top: 20px;
+}
+```
 
 在使用相对定位时，无论是否进行移动，元素仍然占据原来的空间。因此，移动元素会导致它覆盖其他框
 
