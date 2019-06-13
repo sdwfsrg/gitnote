@@ -5,8 +5,10 @@
 *如果希望列表中 的strong变斜体*
 ```
 li strong {
-  font-style:
+  font-style:italic;
+  font-weight:normal;
 }
+
 
 <p><strong>我是粗体字，不是斜体字，因为我不在列表当中，所以这个规则对我不起作用</strong></p>
 
