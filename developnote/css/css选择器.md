@@ -95,3 +95,11 @@ cond(yes)->e
 cond(no)->op
 &
 ```
+
+mermaid
+graph TD
+   A --> B
+
+subgraph title
+    graph definition
+end
