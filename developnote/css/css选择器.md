@@ -54,10 +54,8 @@ margin-top:50px;
 }
 ```
 选择紧接在 h1 元素后出现的段落，h1 和 p 元素拥有共同的父元素
-
+`li + li {font-weight:bold;}`
 ```
-li + li {font-weight:bold;}
-
 <div>
   <ul>
     <li>List item 1</li>
@@ -76,7 +74,7 @@ li + li {font-weight:bold;}
 ## 伪类
 在 CSS 定义中，a:hover 必须位于 a:link 和 a:visited 之后，这样才能生效！
 a:active 必须位于 a:hover 之后，这样才能生效！
-***
+
 :active  --- 向被激活的元素添加样式
 :focus  ---  向拥有键盘输入焦点的元素添加样式
 :hover    当鼠标悬浮在元素上方的时候向元素添加样式
@@ -96,4 +94,4 @@ st->op->cond
 cond(yes)->e
 cond(no)->op
 &
-``
+```
