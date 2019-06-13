@@ -16,7 +16,7 @@
 ![相对定位](http://www.w3school.com.cn/i/ct_css_positioning_relative_example.gif)
 
 ### 绝对定位
-	
+设置为绝对定位的元素框从文档流完全删除，并相对于其包含块定位，包含块可能是文档中的另一个元素或者是初始包含块。元素原先在正常文档流中所占的空间会关闭，就好像该元素原来不存在一样。元素定位后生成一个块级框，而不论原来它在正常流中生成何种类型的框。
 ```
 #box_relative {
   position: absolute;
