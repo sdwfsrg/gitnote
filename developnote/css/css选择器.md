@@ -56,6 +56,8 @@ margin-top:50px;
 选择紧接在 h1 元素后出现的段落，h1 和 p 元素拥有共同的父元素
 
 ```
+li + li {font-weight:bold;}
+
 <div>
   <ul>
     <li>List item 1</li>
@@ -69,6 +71,7 @@ margin-top:50px;
   </ol>
 </div>
 ```
+这个选择器只会把列表中的第二个和第三个列表项变为粗体。第一个列表项不受影响
 
 
 
