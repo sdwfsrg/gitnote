@@ -55,6 +55,21 @@ margin-top:50px;
 ```
 选择紧接在 h1 元素后出现的段落，h1 和 p 元素拥有共同的父元素
 
+```
+<div>
+  <ul>
+    <li>List item 1</li>
+    <li>List item 2</li>
+    <li>List item 3</li>
+  </ul>
+  <ol>
+    <li>List item 1</li>
+    <li>List item 2</li>
+    <li>List item 3</li>
+  </ol>
+</div>
+```
+
 
 
 
