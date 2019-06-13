@@ -10,8 +10,9 @@
   position: relative;
   left: 30px;
   top: 20px;
-}
+}![相对定位](http://www.w3school.com.cn/i/ct_css_positioning_relative_example.gif)
 ```
+http://www.w3school.com.cn/i/ct_css_positioning_relative_example.gif
 在使用相对定位时，无论是否进行移动，元素仍然占据原来的空间。因此，移动元素会导致它覆盖其他框
 
 浮动的框可以向左或者向右移动，直到它的外边缘碰到包含框或另一个付东凯的边框为止。 由于浮动框不在文档的普通流中，所以文档的普通流中块框表现的就像浮动框不存在一样
